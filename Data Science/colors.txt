@@ -1,0 +1,11 @@
+COLOR      VALUE
+RED         1
+BLUE        2
+GREEN       3
+BLACK       4
+ORANGE      5
+PURPLE      6
+GREY        7
+VIOLET      8
+WHITE       9
+YELLOW      10
