@@ -1,0 +1,22 @@
+<MyDataset>
+    <Record name="first_record">
+        <Roll_no>1</Roll_no>
+        <Name>Ross</Name>
+        <Branch>ICT</Branch>
+    </Record>
+    <Record name="second_record">
+        <Roll_no>2</Roll_no>
+        <Name>Chandler</Name>
+        <Branch>IT</Branch>
+    </Record>
+    <Record name="third_record">
+        <Roll_no>3</Roll_no>
+        <Name>Monica</Name>
+        <Branch>CE</Branch>
+    </Record>
+    <Record name="fourth_record">
+        <Roll_no>4</Roll_no>
+        <Name>Joey</Name>
+        <Branch>AI/ML</Branch>
+    </Record>
+</MyDataset>
